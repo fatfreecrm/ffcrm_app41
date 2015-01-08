@@ -37,3 +37,7 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+############# Our customisations below
+
+gem 'fat_free_crm', github: 'fatfreecrm/fat_free_crm', branch: 'rails4'
